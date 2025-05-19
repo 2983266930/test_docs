@@ -1,2 +1,2 @@
 # test_docs
-HUIZHI_test
+main_HUIZHI_test
